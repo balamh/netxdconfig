@@ -1,5 +1,5 @@
 package constants
 
 
-const port=":3000"
-const value="hello"
+const Port=":3000"
+const Value="hello"
